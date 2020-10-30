@@ -11,7 +11,7 @@
 1. Clone Repo
    - `$> git clone https://github.com/sulbhagarg/Path-Finder-Visualizer.git`
 2. Change Directory
-   - `$> cd Path-Fnder-Visualizer`
+   - `$> cd Path-Finder-Visualizer`
 3. Install Dependencies
    - `$> npm install`
 4. Start server
