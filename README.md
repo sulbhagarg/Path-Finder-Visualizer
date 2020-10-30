@@ -9,9 +9,9 @@
 ### Run Software
 
 1. Clone Repo
-   - `$> git clone https://github.com/sulbhagarg/ReactJS.git`
+   - `$> git clone https://github.com/sulbhagarg/Path-Finder-Visualizer.git`
 2. Change Directory
-   - `$> cd ReactJS/quizbee/`
+   - `$> cd Path-Fnder-Visualizer`
 3. Install Dependencies
    - `$> npm install`
 4. Start server
